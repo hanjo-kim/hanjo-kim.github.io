@@ -7,8 +7,8 @@ main:
     url: /research/
 
 
-      #  - title: "Data"
-      #    url: /data/
+  - title: "Data"
+    url: /data/
     
       #  - title: "Guide"
       #    url: /markdown/
