@@ -6,9 +6,11 @@ main:
   - title: "Research"
     url: /research/
 
-
   - title: "Data"
     url: /data/
+
+  - title: "Code"
+    url: /code/
     
       #  - title: "Guide"
       #    url: /markdown/
