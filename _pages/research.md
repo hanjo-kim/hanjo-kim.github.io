@@ -12,11 +12,12 @@ author_profile: true
 - **Entrepreneurial Heterogeneity and Aggregate Dynamics in Emerging Markets** \
 [\[Paper\]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Kim_Entre.pdf)
 
+- **Export Dynamics with Product Proximity** (with [Ji Hye Heo](https://jihye-heo.github.io/)) \
+[\[Paper\]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Heo_Kim_Exporter.pdf)
+
 - **Did Durable Goods Producing States Suffer a Greater Great Depression?** (with [Dong Cheng](https://www.dongcarlcheng.com/) and [Mario Crucini](https://business.purdue.edu/faculty/mcrucini/)) \
 \[Draft in preparation\]
 
-- **Export Dynamics of Multiproduct Firms** (with [Ji Hye Heo](https://jihye-heo.github.io/)) \
-\[Draft in preparation\]
 
 ## **Work in Progress**
 - Sensitivity of Interest Rates in the Treasury and Corporate Bond Markets  
