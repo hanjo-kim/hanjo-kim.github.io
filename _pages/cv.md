@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a PDF copy of my CV [here](https://hanjo-kim.github.io/files/CV_Kim.pdf).
+You can download a PDF copy of my CV [here](https://hanjo-kim.github.io/files/Kim_CV.pdf).
 
