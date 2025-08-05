@@ -9,22 +9,17 @@ author_profile: true
 
 ## **Working Papers**
 
-- **Entrepreneurs, Sudden Stops, and Inequality** (Revised draft coming soon) \
-[\[Paper\]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Kim_JMP.pdf)
+- [Entrepreneurs, Sudden Stops, and Inequality](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Kim_JMP.pdf) (Revised draft coming soon) \
 
-- **Entrepreneurial Heterogeneity and Aggregate Dynamics in Emerging Markets** \
-[\[Paper\]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Kim_Entre.pdf)
+- [Entrepreneurial Heterogeneity and Aggregate Dynamics in Emerging Markets](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Kim_Entre.pdf) (Revised draft coming soon) \
 
-- **Export Dynamics with Product Proximity** (with [Ji Hye Heo](https://jihye-heo.github.io/)) \
-[\[Paper\]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Heo_Kim_Exporter.pdf)
-
-- **Did Durable Goods Producing States Suffer a Greater Great Depression?** (with [Dong Cheng](https://www.dongcarlcheng.com/) and [Mario Crucini](https://business.purdue.edu/faculty/mcrucini/)) \
-\[Draft in preparation\]
-
+- [Export Dynamics with Product Proximity] (with [Ji Hye Heo](https://jihye-heo.github.io/)) \
 
 ## **Work in Progress**
-- Sensitivity of Interest Rates in the Treasury and Corporate Bond Markets  
+- [Did Durable Goods Producing States Suffer a Greater Great Depression?] (with [Dong Cheng](https://www.dongcarlcheng.com/) and [Mario Crucini](https://business.purdue.edu/faculty/mcrucini/)) \
+\[Draft in preparation\]
 
+- Sensitivity of Interest Rates in the Treasury and Corporate Bond Markets  
 
 <!---
 - Early Business Formation and the Changing Nature of Entrepreneurship (with [Edward Olivares](https://sites.google.com/umd.edu/econ-jmc-edward-olivares/home-page)) 
