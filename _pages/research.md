@@ -9,6 +9,9 @@ author_profile: true
 
 ## **Working Papers**
 
+- **Entrepreneurs, Sudden Stops, and Inequality** (Revised draft coming soon) \
+[\[Paper\]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Kim_JMP.pdf)
+
 - **Entrepreneurial Heterogeneity and Aggregate Dynamics in Emerging Markets** \
 [\[Paper\]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Kim_Entre.pdf)
 
