@@ -9,11 +9,11 @@ author_profile: true
 
 ## **Working Papers**
 
-- [Entrepreneurs, Sudden Stops, and Inequality](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Kim_JMP.pdf) (Revised draft coming soon) 
-
 - [Entrepreneurial Heterogeneity and Aggregate Dynamics in Emerging Markets](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Kim_Entre.pdf) (Revised draft coming soon) 
 
 - [Export Dynamics with Product Proximity](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Heo_Kim_Exporter.pdf) (with [Ji Hye Heo](https://jihye-heo.github.io/)) 
+
+- [Entrepreneurs, Sudden Stops, and Inequality](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Kim_JMP.pdf) (Revised draft coming soon) 
 
 - Did Durable Goods Producing States Suffer a Greater Great Depression? (with [Dong Cheng](https://www.dongcarlcheng.com/) and [Mario Crucini](https://business.purdue.edu/faculty/mcrucini/)) \
 \[Draft in preparation\]
