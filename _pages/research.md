@@ -15,8 +15,9 @@ author_profile: true
 
 - [Export Dynamics with Product Proximity](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Heo_Kim_Exporter.pdf) (with [Ji Hye Heo](https://jihye-heo.github.io/)) 
 
-- [Did Durable Goods Producing States Suffer a Greater Great Depression?] (with [Dong Cheng](https://www.dongcarlcheng.com/) and [Mario Crucini](https://business.purdue.edu/faculty/mcrucini/)) \
+- Did Durable Goods Producing States Suffer a Greater Great Depression? (with [Dong Cheng](https://www.dongcarlcheng.com/) and [Mario Crucini](https://business.purdue.edu/faculty/mcrucini/)) \
 \[Draft in preparation\]
+
 
 ## **Work in Progress**
 - Sensitivity of Interest Rates in the Treasury and Corporate Bond Markets  
