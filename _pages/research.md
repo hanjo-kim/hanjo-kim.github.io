@@ -9,7 +9,7 @@ author_profile: true
 
 ## **Working Papers**
 
-- [Entrepreneurial Heterogeneity and Aggregate Dynamics in Emerging Markets](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Kim_Entre.pdf) (Revised draft coming soon) 
+- [Entrepreneurial Heterogeneity, Financial Development, and Aggregate Dynamics](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Kim_Entre.pdf) 
 
 - [Export Dynamics with Product Proximity](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Heo_Kim_Exporter.pdf) (with [Ji Hye Heo](https://jihye-heo.github.io/)) 
 
