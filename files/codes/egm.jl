@@ -1,5 +1,5 @@
 #solving income fluctuation problems with endogenous grid method 
-#Author: Hanjo Terry Kim (terryhanjokim@gmail.com)
+#Author: Terry Kim (terryhanjokim[at]gmail[dot]com)
 #Last updated: Aug. 30th 2024
 using Parameters, Plots, QuantEcon, Interpolations
 

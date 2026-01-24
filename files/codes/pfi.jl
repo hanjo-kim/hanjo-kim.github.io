@@ -1,5 +1,5 @@
 #Solving IFP with policy function iteration 
-#Author: Hanjo Kim (terryhanjokim@gmail.com) 
+#Author: Terry Kim (terryhanjokim[at]gmail[dot]com) 
 #Last updated 8/30/2024
 using Plots, NLsolve, QuantEcon, Parameters, BasisMatrices
 

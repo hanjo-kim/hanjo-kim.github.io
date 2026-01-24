@@ -1,8 +1,8 @@
 #Julia implementation to compute optimal portfolio with risky and risk-free assets
 #The objective is to minimize portfolio variance subject to 1. a certain level of portfolio return, 2. short-selling constraint
-#Referenced Ch. 4 of Introduction to Computational Economics Using Fortran by Hans Fehr and Fabian Kindermann 
-#Author: Hanjo Terry Kim (terryhanjokim@gmail.com) 
+#Author: Terry Kim (terryhanjokim[at]gmail[dot]com) 
 #Last updated: 9/3/2024 
+#See Hans Fehr and Fabian Kindermann's textbook for details 
 
 using DataFrames, StatsBase, Optim, NLsolve, Plots, CSV
 

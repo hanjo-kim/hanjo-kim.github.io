@@ -1,8 +1,7 @@
 #Implementation of log-linearization of DSGE models using SymEngine
-#Original code in MATLAB from Schmitt-Grohe and Uribe's package
-#Author: Hanjo Terry Kim (terryhanjokim@gmail.com) 
+#Original code in MATLAB from Schmitt-Grohe and Uribe's package by Terry Kim 
 #This is translated to Julia with some syntax changes to make the implementation more Julia 
-#All comments and feedback can be sent to terryhanjokim@gmail.com 
+#All comments and feedback can be sent to (terryhanjokim[at]gmail[dot]com) 
 #For now, it only includes first-order perturbation, but I may include other features in the future 
 #Last Updated: 9/3/2024 
 

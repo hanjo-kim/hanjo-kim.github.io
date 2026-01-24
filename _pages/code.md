@@ -9,7 +9,7 @@ This page contains Julia code to solve various economics and finance problems th
 
 This code is provided "as is" without warranty of any kind, express or implied. While efforts have been made to ensure accuracy, all errors or omissions are my own. 
 
-Any comments, suggestions, and corrections are welcome and can be emailed to terryhanjokim@gmail.com.
+Any comments, suggestions, and corrections are welcome and can be emailed to terryhanjokim[at]gmail[dot]com.
 
 ### Local methods 
 This code translates Schmitt-grohe and Uribe's Matlab codes to log-linearize and solve models to Julia. In particular, I use SymEngine to symbolically differentiate first-order conditions and uses lambdify to quickly evaluate them numerically. 

@@ -1,6 +1,6 @@
 #solving income fluctuation problems with value function iterations
 #Original basismatrices algorithm taken the example in https://github.com/QuantEcon/BasisMatrices.jl/blob/master/demo/examples.ipynb 
-#Author: Hanjo Terry Kim (terryhanjokim@gmail.com)  
+#Author: Terry Kim (terryhanjokim[at]gmail[dot]com)  
 #Last updated: Aug. 30th 2024
 using Parameters, BasisMatrices, QuantEcon, Optim, SparseArrays, LinearAlgebra, Plots
 

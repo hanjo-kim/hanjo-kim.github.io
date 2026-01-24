@@ -1,5 +1,5 @@
 #One sector small open economy model as in Chapter 4 of Open Economy Macroeconomics textbook by Uribe and Schmitt-grohe 
-#Author: Hanjo Terry Kim (terryhanjokim@gmail.com)
+#Author: Terry Kim (terryhanjokim[at]gmail[dot]com)
 #Last updated: 9/2/2024 
 using SymEngine, Parameters, Plots
 include("SGU.jl")

@@ -1,5 +1,5 @@
 #one sector RBC model
-#Author: Hanjo Terry Kim (terryhanjokim@gmail.com)
+#Author: Terry Kim (terryhanjokim[at]gmail[dot]com)
 #last update 9/3/2024 
 
 using Plots, QuantEcon
