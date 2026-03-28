@@ -9,7 +9,8 @@ author_profile: true
 
 ## **Working Papers**
 
-- Entrepreneurial Heterogeneity, Financial Development, and Business Cycle Dynamics [[Draft]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Kim_Entre.pdf) 
+- Entrepreneurial Heterogeneity, Financial Development, and Business Cycle Dynamics [[Draft]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Kim_Entre.pdf) \\
+*[Revision requested at EER]*
 
 - Export Dynamics with Product Proximity [[Draft]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Heo_Kim_Exporter.pdf) (with [Ji Hye Heo](https://jihye-heo.github.io/)) 
 
