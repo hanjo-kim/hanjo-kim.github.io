@@ -12,7 +12,7 @@ author_profile: true
 - Entrepreneurial Heterogeneity, Financial Development, and Business Cycle Dynamics [[Draft]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Kim_Entre.pdf) \\
 *[Revise and resubmit, European Economic Review]*
 
-- Export Dynamics with Product Proximity [[Draft]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Heo_Kim_Exporter.pdf) (with [Ji Hye Heo](https://jihye-heo.github.io/)) 
+- Export Dynamics with Product Proximity [[Draft]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Heo_Kim_Exporter.pdf) (with [Ji Hye Heo](https://jihye-heo.github.io/)) \\
 *[Revise and resubmit, International Economic Review]*
 
 - Which U.S. States Suffered a Greater Great Depression and Why? [[Draft]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Cheng_Crucini_Kim_GGD.pdf) 
