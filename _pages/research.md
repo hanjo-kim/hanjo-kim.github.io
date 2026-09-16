@@ -20,7 +20,7 @@ author_profile: true
 (with [Dong Cheng](https://www.dongcarlcheng.com/) and [Mario Crucini](https://business.purdue.edu/faculty/mcrucini/))
 
 ## **Work in Progress**
-- Trade Dynamics, Firm Heterogeneity, and Ambiguity Shocks (with Jihye Heo and Seunghoon Na) 
+- Trade Dynamics, Firm Heterogeneity, and Ambiguity Shocks (with [Jihye Heo](https://jihye-heo.github.io/) and [Seunghoon Na](https://sites.google.com/site/seunghoonna85/seunghoon-na)) 
 
 - Carbon Border Adjustments, Steel Production Routes, and Trade Reallocation (with [Jihye Heo](https://jihye-heo.github.io/)) 
 
