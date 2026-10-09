@@ -17,7 +17,8 @@ author_profile: true
 *[International Economic Review, revise and resubmit]*
 
 - Which U.S. States Suffered a Greater Great Depression and Why? [[Draft]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Cheng_Crucini_Kim_GGD.pdf) 
-(with [Dong Cheng](https://www.dongcarlcheng.com/) and [Mario Crucini](https://business.purdue.edu/faculty/mcrucini/))
+(with [Dong Cheng](https://www.dongcarlcheng.com/) and [Mario Crucini](https://business.purdue.edu/faculty/mcrucini/))\\ 
+*[Journal of Political Economy, revise and resubmit]*
 
 ## **Work in Progress**
 - Trade Dynamics, Firm Heterogeneity, and Ambiguity Shocks (with [Jihye Heo](https://jihye-heo.github.io/) and [Seunghoon Na](https://sites.google.com/site/seunghoonna85/seunghoon-na)) 
