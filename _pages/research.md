@@ -10,13 +10,13 @@ author_profile: true
 
 ## **Publications and Working Papers**
 
-- Entrepreneurial Heterogeneity, Financial Development, and Business Cycle Dynamics [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0014292126002035) \\
+- Entrepreneurial Heterogeneity, Financial Development, and Business Cycle Dynamics [[Published Version]](https://www.sciencedirect.com/science/article/abs/pii/S0014292126002035) [[Working Paper]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Kim_Entre.pdf)\\
 *[European Economic Review, 2026]*
 
-- Export Dynamics with Product Proximity [[Draft]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Heo_Kim_Exporter.pdf) (with [Jihye Heo](https://jihye-heo.github.io/)) \\
+- Export Dynamics with Product Proximity [[Working Paper]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Heo_Kim_Exporter.pdf) (with [Jihye Heo](https://jihye-heo.github.io/)) \\
 *[International Economic Review, revise and resubmit]*
 
-- Which U.S. States Suffered a Greater Great Depression and Why? [[Draft]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Cheng_Crucini_Kim_GGD.pdf) 
+- Which U.S. States Suffered a Greater Great Depression and Why? [[Working Paper]](https://github.com/hanjo-kim/hanjo-kim.github.io/raw/master/files/Cheng_Crucini_Kim_GGD.pdf) 
 (with [Dong Cheng](https://www.dongcarlcheng.com/) and [Mario Crucini](https://business.purdue.edu/faculty/mcrucini/)) \
 *[Journal of Political Economy, revise and resubmit]*
 
